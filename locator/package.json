@@ -13,10 +13,10 @@
   ],
   "author": "Vijay Adithya",
   "license": "ISC",
-  "dependencies": {
-    "axios": "^1.8.3"
-  },
   "devDependencies": {
     "eslint": "^6.0.0"
+  },
+  "dependencies": {
+    "request": "^2.60.0"
   }
 }
